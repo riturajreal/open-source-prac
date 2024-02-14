@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello Drop you name here for PR</h1>
+      <p>Rituraj Jha</p>
     </>
   )
 }
